@@ -25,10 +25,8 @@ then **enter**
 
 6. Run the tests, demonstrating they they fail
 
-![Image](Screenshot_20230224_114806.png)
-
-type in the Junit test code, output that it is not found file, so I cd into lab7, ctrl-v from the week 3 meterial, but I mistake to copy and paste the mac system, 
-so I go back to the week 3 meterial and **crtl-c**, and **ctrl-v** the test code to the command line
+![Image](Screenshot_20230227_091638.png
+type in the Junit test code so I cd into lab7, ctrl-v from the week 3 meterial **crtl-c**, and **ctrl-v** the test code for the windows systems to the command line
 
 7. Edit the code file to fix the failing test
 
