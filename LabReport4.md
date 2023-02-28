@@ -25,7 +25,7 @@ then **enter**
 
 6. Run the tests, demonstrating they they fail
 
-![Image](Screenshot_20230227_091638.png
+![Image](Screenshot_20230227_091638.png)
 type in the Junit test code so I cd into lab7, ctrl-v from the week 3 meterial **crtl-c**, and **ctrl-v** the test code for the windows systems to the command line
 
 7. Edit the code file to fix the failing test
