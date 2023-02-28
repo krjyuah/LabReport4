@@ -35,7 +35,7 @@ type in the Junit test code so I cd into lab7, ctrl-v from the week 3 meterial *
 type nano ListExamples.java get into the nano system, and **down to find the error lines, which is the last while loop,
 it is index2 +=1 and not index1 +=1. After change it, type in **ctrl-o** to save the files,, **enter**, **ctrl-x** to exit the sysytem
 
-8.Run the tests, demonstrating that they now succeed
+8. Run the tests, demonstrating that they now succeed
 
 ![Image](Screenshot_20230224_125511.png)
 
