@@ -23,6 +23,7 @@ type in 'cs15lwi23xxx@ieng6.ucsd.edu' and password
 Then **Enter**
 
 
+
 5. Clone your fork of the repository from your github account
 
 ![Image](Screenshot_20230224_114212.png)
